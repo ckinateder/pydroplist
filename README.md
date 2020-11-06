@@ -4,7 +4,7 @@ A python module to grab data from <https://supremecommunity.com> and list produc
 
 ## Installation
 
-Install via `pip install supreme-community`
+Install via `pip install supreme-community`.
 
 ## Usage
 
