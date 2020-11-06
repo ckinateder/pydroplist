@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: supreme-community
+Version: 0.0.1
+Summary: A python module to grab data from supremecommunity.com and list drop products
+Home-page: https://github.com/ckinateder/supreme-community
+Author: Calvin Kinateder
+Author-email: calvinkinateder@gmail.com
+License: UNKNOWN
+Description: # supreme-community
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
