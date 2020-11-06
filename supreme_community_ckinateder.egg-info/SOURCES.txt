@@ -1,6 +1,0 @@
-README.md
-setup.py
-supreme_community_ckinateder.egg-info/PKG-INFO
-supreme_community_ckinateder.egg-info/SOURCES.txt
-supreme_community_ckinateder.egg-info/dependency_links.txt
-supreme_community_ckinateder.egg-info/top_level.txt

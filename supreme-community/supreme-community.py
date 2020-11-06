@@ -18,5 +18,3 @@ def latest():
         droplist.append(i.text)
     
     return droplist
-
-print(latest())

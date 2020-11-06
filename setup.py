@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="supreme-community", # Replace with your own username
-    version="0.0.2",
+    version="1.0.1",
     author="Calvin Kinateder",
     author_email="calvinkinateder@gmail.com",
     description="A python module to grab data from supremecommunity.com and list products on the next drop.",
