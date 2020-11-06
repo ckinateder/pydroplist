@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Calvin Kinateder",
     author_email="calvinkinateder@gmail.com",
-    description="A python module to grab data from supremecommunity.com and list drop products",
+    description="A python module to grab data from supremecommunity.com and list products on the next drop.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ckinateder/supreme-community",
