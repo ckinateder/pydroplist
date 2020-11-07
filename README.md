@@ -10,3 +10,4 @@ Install via `pip install pydroplist`.
 
 First import to your project with `import pydroplist`.
 To use, call the function `latest('brand')` – this returns a list of the products dropping. Input the brand you are looking for.
+Currently only supports `'supreme'` as an argument – will be adding more later.
