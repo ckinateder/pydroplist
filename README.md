@@ -1,4 +1,4 @@
-# supreme-community
+# pydroplist
 
 A python module to grab data from droplists online and list products on the next drop, given the brand being searched for.
 
