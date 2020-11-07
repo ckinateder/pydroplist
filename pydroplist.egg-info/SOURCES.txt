@@ -1,0 +1,6 @@
+README.md
+setup.py
+pydroplist.egg-info/PKG-INFO
+pydroplist.egg-info/SOURCES.txt
+pydroplist.egg-info/dependency_links.txt
+pydroplist.egg-info/top_level.txt

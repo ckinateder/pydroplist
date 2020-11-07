@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="supreme-community", # Replace with your own username
+    name="pydroplist",
     version="1.0.1",
     author="Calvin Kinateder",
     author_email="calvinkinateder@gmail.com",
