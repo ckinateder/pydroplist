@@ -1,12 +1,12 @@
 # supreme-community
 
-A python module to grab data from <https://supremecommunity.com> and list products on the next drop.
+A python module to grab data from droplists online and list products on the next drop, given the brand being searched for.
 
 ## Installation
 
-Install via `pip install supreme-community`.
+Install via `pip install pydroplist`.
 
 ## Usage
 
-First import to your project with `import supreme-community`.
-To use, call the function `latest()` – this returns a list of the products dropping
+First import to your project with `import pydroplist`.
+To use, call the function `latest('brand')` – this returns a list of the products dropping. Input the brand you are looking for.
