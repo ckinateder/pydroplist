@@ -1,4 +1,4 @@
-# AUTHOUR: CALVIN KINATEDER
+# AUTHOR: CALVIN KINATEDER
 import requests, json, bs4
 
 def latest(brand, withDates=False):    
@@ -21,3 +21,6 @@ def latest(brand, withDates=False):
     elif brand == 'nike':
         pass
     return droplist
+
+if __name__=='__main__':
+    print(latest('supreme'))
